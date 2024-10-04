@@ -128,6 +128,3 @@ To create a standalone executable of the application:
 
 ## Conclusion
 This application provides a secure method for encrypting and decrypting files using industry-standard AES-256 encryption. It is suitable for users who need to protect sensitive information stored in text files.
-
-For any further assistance or questions, feel free to reach out!
-```
